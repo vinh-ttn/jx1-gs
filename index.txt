@@ -1,1 +1,2 @@
-pgaming-8.0-update3
+pgaming-8.0-update3/client_patch.7z
+pgaming-8.0-update3/jxser.tar.gz
